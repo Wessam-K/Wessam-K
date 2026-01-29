@@ -1,5 +1,10 @@
 # 🎮 Wessam Khattab
 
+## 🛠️ Skills & Tools
+![Skills](https://skillicons.dev/icons?i=git,github,py,html,css,js,linux,aws,docker,react,powershell,unity,cloudflare,chatgpt)
+
+
+
 **Engineer by trade • Builder by instinct • Nerd by destiny**
 
 I build **apps, websites, and servers**.  
