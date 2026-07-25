@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ناطق</string>
+    <string name="action_read_aloud">اقرأ بصوت عالٍ</string>
+
+    <string name="hint_empty">الصق النص هنا أو اكتبه — بالعربية أو بالإنجليزية. ظلّل جزءًا منه واضغط تشغيل لسماع هذا الجزء فقط.</string>
+    <string name="hint_selection">تم تظليل %1$d حرفًا — التشغيل يقرأ الجزء المظلَّل.</string>
+    <string name="hint_cursor">التشغيل يبدأ من موضع المؤشر.</string>
+    <string name="hint_full">التشغيل يقرأ النص كاملًا.</string>
+
+    <string name="cd_play">تشغيل</string>
+    <string name="cd_pause">إيقاف مؤقت</string>
+    <string name="cd_stop">إيقاف</string>
+    <string name="cd_next">الجملة التالية</string>
+    <string name="cd_previous">الجملة السابقة</string>
+    <string name="cd_settings">الإعدادات</string>
+    <string name="cd_paste">لصق</string>
+    <string name="cd_clear">حذف النص</string>
+    <string name="cd_edit">تحرير النص</string>
+    <string name="cd_done_editing">تم التحرير</string>
+    <string name="cd_export">حفظ كملف صوتي</string>
+    <string name="cd_close">إغلاق</string>
+
+    <string name="progress_sentence">الجملة %1$d من %2$d</string>
+    <string name="speed_label">السرعة</string>
+    <string name="pitch_label">درجة الصوت</string>
+    <string name="volume_label">مستوى الصوت</string>
+    <string name="font_size_label">حجم الخط</string>
+    <string name="gap_label">سكتة بين الجمل</string>
+    <string name="gap_value">%1$d مللي ثانية</string>
+
+    <string name="language_auto">تلقائي</string>
+    <string name="language_arabic">العربية</string>
+    <string name="language_english">English</string>
+
+    <string name="settings_title">الصوت والتشغيل</string>
+    <string name="settings_voices">نمط الصوت</string>
+    <string name="settings_arabic_voice">الصوت العربي</string>
+    <string name="settings_english_voice">الصوت الإنجليزي</string>
+    <string name="settings_engine">محرك النطق</string>
+    <string name="settings_reading">القراءة</string>
+    <string name="settings_highlight_words">تظليل كل كلمة عند نطقها</string>
+    <string name="settings_follow">تمرير النص مع القراءة</string>
+    <string name="settings_keep_screen_on">إبقاء الشاشة مضاءة أثناء القراءة</string>
+    <string name="settings_autoplay">بدء القراءة تلقائيًا للنص المشارَك</string>
+    <string name="settings_system_voices">تثبيت أصوات النظام أو إدارتها</string>
+    <string name="settings_reset">استعادة الإعدادات الافتراضية</string>
+    <string name="voice_default">الصوت الافتراضي للمحرك</string>
+    <string name="voice_none">لا يوجد صوت مثبّت لهذه اللغة</string>
+    <string name="voice_network">يحتاج إلى إنترنت</string>
+    <string name="quality_low">عادي</string>
+    <string name="quality_normal">قياسي</string>
+    <string name="quality_high">جودة عالية</string>
+
+    <string name="export_title">حفظ كملف صوتي</string>
+    <string name="export_running">جارٍ إنشاء الجملة %1$d من %2$d…</string>
+    <string name="export_share">مشاركة الملف الصوتي</string>
+    <string name="export_empty">لا يوجد نص لإنشاء الصوت منه.</string>
+    <string name="export_failed">تعذّر إنشاء الملف الصوتي: %1$s</string>
+    <string name="export_single_voice">يُنشأ الملف الصوتي بصوت واحد يُختار حسب اللغة الأساسية للنص.</string>
+
+    <string name="notification_channel_name">القراءة الصوتية</string>
+    <string name="notification_channel_description">يعرض النص الذي يُقرأ حاليًا.</string>
+    <string name="notification_reading">قراءة بصوت عالٍ</string>
+    <string name="notification_paused">متوقف مؤقتًا</string>
+
+    <string name="error_engine_init">لم يُعثر على محرك نطق يعمل. ثبّت محركًا أو اختر محركًا آخر من الإعدادات.</string>
+    <string name="error_speak_failed">تعذّر على محرك النطق قراءة هذا النص.</string>
+    <string name="error_clipboard_empty">الحافظة لا تحتوي على نص.</string>
+    <string name="error_no_tts_settings">إعدادات أصوات النظام غير متوفرة على هذا الجهاز.</string>
+    <string name="dismiss">إغلاق</string>
+</resources>
